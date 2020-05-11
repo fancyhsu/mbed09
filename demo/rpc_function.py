@@ -37,5 +37,5 @@ while(1):
     print(line)
     line=s.readline() # Read an echo string from K66F terminated with '\n' (RPC reply)
     print(line)
-    time.sleep(1)
+    time.sleep(1)fa
 s.close()
